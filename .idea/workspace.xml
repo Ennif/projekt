@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c2e60a0-8772-4d7f-97c8-1d8a08e5ee1f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/jaxbgenerator$Main.ic" NAME="Main Coverage Results" MODIFIED="1555356313549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sk.stuba.fei.oop.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/generated/ImportXml.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#919#920#0" expanded="true" />
+                <element signature="e#950#951#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/generated/Export.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>xs:short</find>
+      <find>Name must be used and ID must be</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>xs:int</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/ResetEdge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/AddTokenListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/AddTransitionActionListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/AddRunListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/AddRunActionListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/ForegroundNotActiveException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/AddPlaceActionListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/AddTokenActionListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/TokenActionListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/AddEdgeActionListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/ResetEdge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/Edge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/EdgeWithWeight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/EdgeFromPlaceToTransition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/EdgeFromTransitionToPlace.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/MouseClickedToNullException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/IdSetter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/BaseElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/AddTransitionListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/XmlChooser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/AddResetArcActionListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/AddEdgeListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/AddResetArcListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/AddPlaceListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/Arrow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/TransToPlaceEdge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/PlaceToTransEdge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/ResetEdgee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/TokenMouseListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/Drawable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/ResetEdgee2D.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/Place2D.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/Transition2D.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/ChangeWeightActionListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/DeleteElementActionListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/ChangeWeightListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/RunListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/Transition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/PlaceToTransEdge2D.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/TransToPlaceEdge2D.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/PetriNets.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/DeleteElementListener.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa3428.5861/XmlChooser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/generated/FileChooser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/ExportActionListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/FrameApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/MyCanvas.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/generated/TransportXml.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/generated/Export.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/generated/ImportXml.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/ImportListener.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jaxb-generator" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jaxbgenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projekt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jaxbgenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projekt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jaxbgenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projekt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jaxbgenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projekt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jaxbgenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projekt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jaxbgenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projekt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+              <item name="Graphics" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557692631130" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\programovanie\Java\projekt\src\main\java\com\oop" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oop.Main" />
+      <module name="projekt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sk.stuba.fei.oop.Main" />
+      <module name="projekt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sk.stuba.fei.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c2e60a0-8772-4d7f-97c8-1d8a08e5ee1f" name="Default Changelist" comment="" />
+      <created>1554274485631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554274485631</updated>
+      <workItem from="1554274491996" duration="1188000" />
+      <workItem from="1555157102567" duration="20935000" />
+      <workItem from="1555263477623" duration="7280000" />
+      <workItem from="1555338768194" duration="19682000" />
+      <workItem from="1555360632247" duration="9617000" />
+      <workItem from="1555433997266" duration="64000" />
+      <workItem from="1555443637817" duration="10832000" />
+      <workItem from="1555497994569" duration="33634000" />
+      <workItem from="1555604285308" duration="1667000" />
+      <workItem from="1555612267651" duration="118000" />
+      <workItem from="1555699860438" duration="295000" />
+      <workItem from="1555700676240" duration="703000" />
+      <workItem from="1557139644030" duration="13699000" />
+      <workItem from="1557319246184" duration="12439000" />
+      <workItem from="1557424300994" duration="10900000" />
+      <workItem from="1557435339896" duration="2783000" />
+      <workItem from="1557495537702" duration="16953000" />
+      <workItem from="1557578054489" duration="12390000" />
+      <workItem from="1557594390599" duration="6536000" />
+      <workItem from="1557649888114" duration="37048000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="218763000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498004" visible="true" weight="0.32751676" />
+      <window_info id="Structure" order="1" show_stripe_button="false" sideWeight="0.501996" side_tool="true" weight="0.10461416" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" show_stripe_button="false" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" show_stripe_button="false" sideWeight="0.501996" side_tool="true" weight="0.10461416" />
+      <window_info id="Repositories" order="8" weight="0.32977587" />
+      <window_info anchor="bottom" id="Tail" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32794118" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49678662" weight="0.33529413" />
+      <window_info anchor="bottom" x="1920" y="212" width="1920" height="1053" id="Debug" order="4" sideWeight="0.49893278" weight="0.37941176" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49871466" weight="0.052998606" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.32939914" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4993573" weight="0.25662482" />
+      <window_info anchor="bottom" id="Graph Database Console" order="11" weight="0.51975214" />
+      <window_info anchor="bottom" id="Sequence" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50321335" side_tool="true" weight="0.45327756" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" show_stripe_button="false" weight="0.32894737" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="17" sideWeight="0.49839914" weight="0.39097744" />
+      <window_info anchor="bottom" id="Messages" order="18" sideWeight="0.49871466" weight="0.16029412" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="19" />
+      <window_info anchor="bottom" id="Docker" order="20" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JProfiler" order="21" />
+      <window_info anchor="bottom" id="Statistic" order="22" sideWeight="0.49871466" weight="0.375" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.2497332" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24935733" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Mongo Explorer" order="5" weight="0.11152615" />
+      <window_info anchor="right" id="Graph Database" order="6" show_stripe_button="false" weight="0.32924226" />
+      <window_info anchor="right" id="Database" order="7" weight="0.13154362" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.20811099" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" show_stripe_button="false" weight="0.32977587" />
+      <window_info anchor="right" id="Dynamic Members" order="12" weight="0.32975337" />
+      <window_info anchor="right" x="2020" y="99" width="2360" height="1213" id="DSM" order="13" type="FLOATING" />
+      <window_info anchor="right" id="Module Dependencies" order="14" weight="0.32975337" />
+      <window_info anchor="right" x="0" y="0" width="430" height="853" id="Documentation" order="15" side_tool="true" weight="0.32977587" />
+      <window_info anchor="right" id="Maven" order="16" weight="0.020134227" />
+      <window_info anchor="right" id="Coverage" order="17" side_tool="true" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498004" visible="true" weight="0.1818792" />
+      <window_info id="Structure" order="1" show_stripe_button="false" sideWeight="0.501996" side_tool="true" weight="0.10461416" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" show_stripe_button="false" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" show_stripe_button="false" sideWeight="0.501996" side_tool="true" weight="0.10461416" />
+      <window_info id="Repositories" order="8" weight="0.32977587" />
+      <window_info anchor="bottom" id="Tail" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32794118" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49678662" visible="true" weight="0.33529413" />
+      <window_info anchor="bottom" x="1920" y="212" width="1920" height="1053" id="Debug" order="4" sideWeight="0.49893278" weight="0.37941176" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49871466" weight="0.052998606" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.32939914" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4993573" weight="0.25662482" />
+      <window_info anchor="bottom" id="Graph Database Console" order="11" weight="0.51975214" />
+      <window_info anchor="bottom" id="Sequence" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50321335" side_tool="true" weight="0.45327756" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" show_stripe_button="false" weight="0.32894737" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="17" sideWeight="0.49839914" weight="0.39097744" />
+      <window_info anchor="bottom" id="Messages" order="18" sideWeight="0.49871466" weight="0.16029412" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="19" />
+      <window_info anchor="bottom" id="Docker" order="20" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JProfiler" order="21" />
+      <window_info anchor="bottom" id="Statistic" order="22" sideWeight="0.49871466" weight="0.375" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.2497332" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24935733" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Mongo Explorer" order="5" weight="0.11152615" />
+      <window_info anchor="right" id="Graph Database" order="6" show_stripe_button="false" weight="0.32924226" />
+      <window_info anchor="right" id="Database" order="7" weight="0.13154362" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.20811099" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" show_stripe_button="false" weight="0.32977587" />
+      <window_info anchor="right" id="Dynamic Members" order="12" weight="0.32975337" />
+      <window_info anchor="right" x="2020" y="99" width="2360" height="1213" id="DSM" order="13" type="FLOATING" />
+      <window_info anchor="right" id="Module Dependencies" order="14" weight="0.32975337" />
+      <window_info anchor="right" x="0" y="0" width="430" height="853" id="Documentation" order="15" side_tool="true" weight="0.32977587" />
+      <window_info anchor="right" id="Maven" order="16" weight="0.020134227" />
+      <window_info anchor="right" id="Coverage" order="17" side_tool="true" weight="0.3295302" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/oop/Main.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/AddPlaceActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/EdgeFromPlaceToTransition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/Place.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/BaseElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/AddEdgeActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/Arrow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="58" column="58" lean-forward="true" selection-start-line="58" selection-start-column="58" selection-end-line="58" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+            <element signature="e#1049#1050#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/TokenMouseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="32" column="60" lean-forward="true" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/generated/Transition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/Drawable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/Place2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/ResetEdgee2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/AddTransitionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/AddEdgeListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="56" column="65" lean-forward="true" selection-start-line="56" selection-start-column="65" selection-end-line="56" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/DeleteElementActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/AddTransitionActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/AddResetArcListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/RunListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/Transition2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="68" column="32" lean-forward="true" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/PlaceToTransEdge2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="46" column="77" lean-forward="true" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/TransToPlaceEdge2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/ChangeWeightActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="61" lean-forward="true" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/EdgeWithWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/Transition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="69" column="54" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#225#252#0" expanded="true" />
+            <element signature="e#344#371#0" expanded="true" />
+            <element signature="e#435#446#0" expanded="true" />
+            <element signature="method#launch#0;class#Transition#0" />
+            <element signature="method#checkExecutability#0;class#Transition#0" />
+            <element signature="method#changeWeightOfEdges#0;class#Transition#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/AddPlaceListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/DeleteElementListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/BaseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/MouseListeners/ChangeWeightListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa3428.5861/XmlChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa3428.11327/ImportXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa3428.3226/TransportXml.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa3428.13140/FrameApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/PetriNets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="method#createTransition#0;class#PetriNets#0" />
+            <element signature="method#createTransition#1;class#PetriNets#0" />
+            <element signature="method#createPlace#0;class#PetriNets#0" />
+            <element signature="method#createPlace#1;class#PetriNets#0" />
+            <element signature="method#lookingForTransition#0;class#PetriNets#0" />
+            <element signature="method#lookingForPlace#0;class#PetriNets#0" />
+            <element signature="method#createTransitionToPlaceEdge#0;class#PetriNets#0" />
+            <element signature="method#createTransitionToPlaceEdge#1;class#PetriNets#0" />
+            <element signature="method#idCheck#0;class#PetriNets#0" />
+            <element signature="method#createPlaceToTransitionEdge#0;class#PetriNets#0" />
+            <element signature="method#createPlaceToTransitionEdge#1;class#PetriNets#0" />
+            <element signature="method#createResetEdge#0;class#PetriNets#0" />
+            <element signature="method#launchTransition#0;class#PetriNets#0" />
+            <element signature="method#netInfo#0;class#PetriNets#0" />
+            <element signature="method#checkID#0;class#PetriNets#0" />
+            <element signature="method#setID#0;class#PetriNets#0" />
+            <element signature="method#getNewID#0;class#PetriNets#0" />
+            <element signature="method#sameArcUsed#0;class#PetriNets#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/FrameApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/generated/ArcType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#1117#1118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/Graphics/MyCanvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/generated/Document.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/ExportActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="96" selection-start-line="15" selection-start-column="96" selection-end-line="15" selection-end-column="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/generated/TransportXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/generated/Export.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="95" column="7" lean-forward="true" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/generated/FileChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/XmlChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/TransitionExecutabilityException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="63" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/ElementDoesNotExistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/ForegroundNotActiveException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/IllegalArgumentValueException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/MouseClickedToNullException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/implemented/ElementAlreadyExistsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/ActionListeners/ImportListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sk/stuba/fei/oop/generated/ImportXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>projekt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
